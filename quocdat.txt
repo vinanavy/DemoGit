@@ -1,1 +1,8 @@
 How to use github
+Step 1: New repository 
+Step 2: $ git clone use https
+Step 3: If not check new file or floder
+$ git status to $ git add * or git add (file name or floder)
+if not login git config --global user.name vinanavy@gmail.com
+Step 4: $ git commit -m
+Step 5: $ git push
